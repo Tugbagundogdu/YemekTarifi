@@ -1,0 +1,28 @@
+body{
+
+
+    background-color: bisque;
+}
+
+
+
+h1,h2,h3,u {
+
+    font-style: italic;
+    color: chocolate;
+}
+
+.baslik{
+
+text-align: center;
+margin-right: 20px;
+
+}
+
+.baslik ul li{
+
+    display: inline-block;
+    margin: 0 8px;
+   
+}
+
